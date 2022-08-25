@@ -1,0 +1,27 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/demo rl/PISO/PISO.sim/sim_1/synth/func/project_tb_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity D_flipflop
+INFO: [VRFC 10-307] analyzing entity D_flipflop_0
+INFO: [VRFC 10-307] analyzing entity D_flipflop_1
+INFO: [VRFC 10-307] analyzing entity D_flipflop_10
+INFO: [VRFC 10-307] analyzing entity D_flipflop_11
+INFO: [VRFC 10-307] analyzing entity D_flipflop_12
+INFO: [VRFC 10-307] analyzing entity D_flipflop_13
+INFO: [VRFC 10-307] analyzing entity D_flipflop_14
+INFO: [VRFC 10-307] analyzing entity D_flipflop_15
+INFO: [VRFC 10-307] analyzing entity D_flipflop_2
+INFO: [VRFC 10-307] analyzing entity D_flipflop_3
+INFO: [VRFC 10-307] analyzing entity D_flipflop_4
+INFO: [VRFC 10-307] analyzing entity D_flipflop_5
+INFO: [VRFC 10-307] analyzing entity D_flipflop_6
+INFO: [VRFC 10-307] analyzing entity D_flipflop_7
+INFO: [VRFC 10-307] analyzing entity D_flipflop_8
+INFO: [VRFC 10-307] analyzing entity D_flipflop_9
+INFO: [VRFC 10-307] analyzing entity counter
+INFO: [VRFC 10-307] analyzing entity moore_4s
+INFO: [VRFC 10-307] analyzing entity piso
+INFO: [VRFC 10-307] analyzing entity shift_register
+INFO: [VRFC 10-307] analyzing entity ViterbiSIPO
+INFO: [VRFC 10-307] analyzing entity Viterbi
+INFO: [VRFC 10-307] analyzing entity project_reti_logiche
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/demo rl/PISO/PISO.srcs/sim_1/imports/TB/tb_tre_reset.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity project_tb
